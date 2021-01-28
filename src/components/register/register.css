@@ -1,0 +1,26 @@
+.register {
+    margin-top: 90px;
+}
+
+.register > form {
+    width: 30%;
+    margin: auto;
+    border-radius: 15px;
+}
+
+input {
+    padding: 5px;
+}
+
+button {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: medium;
+    margin: 30px;    
+}
+
+span { 
+    color: red;
+    position: absolute;
+    margin: 10px;
+}

@@ -1,0 +1,17 @@
+.administration{
+    text-align: center;
+}
+
+.administration > img{
+    position:relative;
+    top: 10px;
+    right: -100px;
+    width: 46px;
+}
+
+a > img {
+    position:relative;
+    top: 8px;
+    left: 90px;
+    width: 46px;
+}

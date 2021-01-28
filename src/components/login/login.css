@@ -1,0 +1,27 @@
+.login {
+    margin-top: 90px;
+    text-align: center;
+}
+
+.login > form {
+    border: 1px solid black;
+    width: 30%;
+    margin: auto;
+    border-radius: 15px;
+}
+
+input:last-child {
+    margin-bottom: 40px;
+}
+
+input {
+    padding: 5px;
+}
+
+button {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: medium;
+    margin: 15px;    
+}
+

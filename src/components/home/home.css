@@ -1,0 +1,40 @@
+.home {
+    height: 70%;
+    /* box-sizing: border-box;  */
+    margin-top: 90px;
+}
+
+.menu {
+    position: relative;
+}
+
+.vacations {
+    text-align: center;
+    display: block;
+}
+
+.card {
+    overflow: auto;
+    border: 2px solid black;
+    border-radius: 12px;
+    background-color: yellow;
+    margin: 20px;
+    padding: 10px;
+    width: 350px;
+    height: 400px;
+    display: inline-block;
+}
+
+.pic {
+    width: 290px;
+    height: 150px;
+}
+
+.card > p {
+    margin: 10px;
+}
+
+.description { 
+    overflow: auto;
+}
+

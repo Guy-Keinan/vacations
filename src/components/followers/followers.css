@@ -1,0 +1,9 @@
+.followers > img {
+    width: 20px;
+    height: 20px;
+}
+
+.followers > button{
+    background: none;
+    border: none;
+}

@@ -1,0 +1,13 @@
+.edit{
+    text-align: center;
+}
+
+input {
+    width: 250px;
+}
+
+button {
+    font-size: x-large;
+    border-radius: 10px;
+}
+

@@ -1,0 +1,16 @@
+.menu > a {
+    margin: 10px;    
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: larger;
+    background-color: black;
+    color: blanchedalmond;
+
+}
+
+.menu {
+    width: 100%;
+    left: 0px;
+   margin-top: 40px;
+}

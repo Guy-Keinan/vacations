@@ -1,0 +1,12 @@
+.layout {
+    text-align: center;
+    height: 100%;
+    box-sizing: border-box; 
+    display: grid;
+    grid-template-rows: 15% 5% 80%;
+};
+
+main {
+    margin: 60px;
+}
+
